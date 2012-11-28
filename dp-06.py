@@ -1,7 +1,9 @@
-#!/usr/bin/python 
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/122c6d/10252012_challenge_107_intermediate_infinite/ """
 
 import random 
-
 
 def main(): 
     byte_count = 100000

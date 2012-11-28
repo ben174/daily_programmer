@@ -1,4 +1,7 @@
-#!/usr/bin/python 
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/11erhd/10132012_challenge_103_easydifficult_text/ """
 
 import random
 

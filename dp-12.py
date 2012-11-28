@@ -1,4 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/12k3xt/1132012_challenge_110_intermediate_creepy_crawlies/ """
 
 import urllib2, re, time
 

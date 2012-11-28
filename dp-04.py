@@ -1,4 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/137f7t/11142012_challenge_112_easyget_that_url/ """
 
 def main(): 
     parse_args("http://en.wikipedia.org/w/index.php?title=Main_Page&action=edit")

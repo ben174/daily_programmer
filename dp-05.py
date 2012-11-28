@@ -1,4 +1,7 @@
-#!/usr/bin/python 
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/11xje0/10232012_challenge_106_easy_random_talker_part_1/ """
 
 import re 
 

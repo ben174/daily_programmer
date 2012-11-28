@@ -1,4 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+"""  -- url to the challenge to implement reddit markup --- """
 
 import re 
 

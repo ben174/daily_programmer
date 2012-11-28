@@ -1,4 +1,7 @@
-#!/usr/bin/python 
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/13hmz3/11202012_challenge_113_easy_stringtype_checking/ """
 
 import logging
 

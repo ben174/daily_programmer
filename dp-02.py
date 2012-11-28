@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" --- hmm, where did this challenge come from? --- """
+
 def star_delete(input): 
     ret = []
     for i in input: 

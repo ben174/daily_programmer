@@ -1,4 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
+""" Written by Ben Friedland as a response to the challenge at """
+""" http://www.reddit.com/r/dailyprogrammer/comments/y5svk/8132012_challenge_88_intermediate_printing_out_a/ """
 
 import datetime 
 import sys
